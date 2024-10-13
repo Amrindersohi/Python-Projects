@@ -1,0 +1,6 @@
+fname, lname, ID=input("please give your First Name, Last Name and Id").split(",")
+print()
+print("First Name:" , fname )
+print("Last Name:" , lname ) 
+print ("ID:" , ID)
+print()
