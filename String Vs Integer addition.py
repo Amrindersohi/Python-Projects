@@ -1,0 +1,18 @@
+print('my favrouite fruits: apple , orange, banana')
+print('my favrouite','fruits:','apple , orange, banana',sep='')
+a, b = input('Please enter two numbers: ').split()
+print()
+c=a+b
+print('the sum of two numbers is',c)
+a,b = (int(a), int(b))
+d=a+b
+print('the sum of two numbers is',d)
+print()
+print('the first sum',c,'but the second one',d,"!!!")
+print()
+print('john','Mary','Andrew',sep=';')
+print()
+print('Amrinder\n','CNET 232\n','software engineering\n')
+print('''Amrinder CNET 232 software engineering ''')
+print()
+print("the backward shlash looks like \\ , a single quote looks like \' ,double quotes like \" and tab like \t.")
